@@ -1,16 +1,16 @@
 .test {
-width: 75px; 
-height: 75px;  
-border-radius: 75px; 
-position: relative;  
-animation: ili 5s infinite;  
+width: 75px; /*высота обьекта*/
+height: 75px; /*ширина обьекта*/  
+border-radius: 75px; /*скругление обьекта*/
+position: relative; /*расположение относительно экрана*/ 
+animation: ili 5s infinite;  /* произвольное название анимации*/
 } 
 .test2 {
-width: 75px; 
-height: 75px;  
-border-radius: 75px; 
-position: relative;  
-animation: ili 5s infinite;  
+width: 75px; /*высота обьекта*/
+height: 75px;  /*ширина обьекта*/
+border-radius: 75px; /*скругление обьекта*/
+position: relative;  /*расположение относительно экрана*/
+animation: ili 5s infinite;  /* произвольное название анимации*/
 } 
 @keyframes ili {
 	0%   {left: 0px;} /*начальная позиция*/
