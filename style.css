@@ -13,7 +13,7 @@ position: relative;
 animation: ili 5s infinite;  
 } 
 @keyframes ili {
-	0%   {left: 0px;} 
+	0%   {left: 0px;} /*начальная позиция*/
 	33%  {left: 333px; background: rgba(184, 200, 11, 0.624);} 
 	66%  {left: 666px; background: rgb(0, 0, 255);} 
 	99%  {left: 999px;background: rgb(100, 195, 4)} 
